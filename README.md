@@ -1,3 +1,7 @@
 # Html-CSS
 Atividade do curso Front-End da Digital House.
-Utilizei HTML e CSS. Ainda não está responsivo.
+Tecnologias Utilizadas:
+*HTMl
+*CSS
+
+Visualização da Aplicação: https://jane-doe-guilherme.netlify.app/
